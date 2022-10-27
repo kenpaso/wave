@@ -1,8 +1,8 @@
 import styles from "./SongPage.module.css";
-import {GiMicrophone} from 'react-icons/Gi';
-import {AiOutlineExclamationCircle} from 'react-icons/Ai';
-import {GiLoveSong} from 'react-icons/Gi';
-import {BsInfoLg} from 'react-icons/Bs';
+import {GiMicrophone} from 'react-icons/gi';
+import {AiOutlineExclamationCircle} from 'react-icons/ai';
+import {GiLoveSong} from 'react-icons/gi';
+import {BsInfoLg} from 'react-icons/bs';
 
 const SongPage = () => {
   return (
