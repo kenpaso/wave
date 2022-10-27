@@ -10,16 +10,11 @@ const Search = () => {
               className={styles.searchInput}
               type="text"
               placeholder="Search song"
-              
             />
-            <button className={styles.searchButton} >
-              Search
-            </button>
+            <button className={styles.searchButton}>Search</button>
           </div>
         </div>
       </div>
-
-    
     </>
   );
 };

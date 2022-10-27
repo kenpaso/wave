@@ -1,6 +1,6 @@
 .searchDiv {
-  background-color: rgb(0, 0, 0);
-  height: 350px;
+  background-color: #C9D8DF;
+  height: 100vh;
   display: flex;
 }
 
@@ -14,7 +14,8 @@
 }
 
 .searchInput {
-  background-color: white;
+  background-color: #fbfbfb;
+  color: black;
   padding-left: 15px;
   height: 40px;
   width: 400px;
@@ -22,23 +23,23 @@
   outline: none;
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
-  /* box-shadow: 0px 5px 8px 2px #c9c9c9; */
+  box-shadow: 0px 5px 8px 2px #C9D8DF;
 }
 
 .searchInput:focus {
-  border: 2px solid rgb(0, 173, 181, 0.8);
+  border: 1px solid rgba(27, 68, 70, 0.8);
   border-right: none;
 }
 
 .searchButton {
   color: white;
-  background-color: #00b545;
+  background-color: #266B7E;
   width: 100px;
   height: 40px;
   border: none;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  /* box-shadow: 2px 5px 8px 2px #c9c9c9; */
+  box-shadow: 2px 5px 8px 2px #C9D8DF;
   transition-duration: 0.6s;
 }
 
@@ -53,8 +54,6 @@
   margin-left: 1rem;
   margin-right: 1rem;
 }
-
-
 
 @media screen and (min-width: 3000px) {
   .contentDiv {
@@ -91,5 +90,4 @@
   .searchInput {
     width: 200px;
   }
-
 }
