@@ -6,13 +6,13 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-iframe {
+/* iframe {
   height: 200px;
   width: 300px;
   background-color: #0e946c;
   border: none;
   overflow: hidden;
-}
+} */
 
 a {
   color: inherit;
@@ -28,7 +28,7 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
-    background: #C9D8DF;
+    color: black;
+    background: white;
   }
 }
