@@ -10,9 +10,12 @@ const SongPage = () => {
       <div className={styles.songDiv}>
         <iframe
           src="https://open.spotify.com/embed/track/6nz35DNIzbtj5ztpDEcW1j?utm_source=generator&theme=1"
+          style={{border:'2rem ', overflow:'hidden', maxHeight:'300px', padding: '0px',
+          background:'white'}}
           width="100%"
-          height="360px"
+          height="300px"
           frameBorder="0"
+          allowTransparency="1"
           allowfullscreen=""
           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
         ></iframe>
