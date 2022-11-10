@@ -29,8 +29,9 @@ const SongPage = () => {
         <iframe
           src="https://open.spotify.com/embed/track/0X8DcetL926BYiPJYstJTc?utm_source=generator"
           width="100%"
-          height="360px"
+          height="300px"
           frameBorder="0"
+          allowTransparency="1"
           allowfullscreen=""
           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
         ></iframe>
