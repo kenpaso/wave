@@ -5,9 +5,18 @@ import { GiLoveSong } from "react-icons/gi";
 import { BsInfoLg } from "react-icons/bs";
 import { motion } from "framer-motion";
 import Modal from "../Modal";
+import SpotifyBig from "../SpotifyBig";
+import SpotifyMini from "../SpotifyMini";
 import { useState } from "react";
 import { AnimatePresence } from "framer-motion";
+import {useRouter } from "next/router";
+import { songData } from "../data";
 const SongPage = () => {
+
+  const router = useRouter();
+
+  const name = router.query.id;
+
   const [modalOpen, setModalOpen] = useState(false);
 
   const close = () => setModalOpen(false);
@@ -26,15 +35,15 @@ const SongPage = () => {
   return (
     <>
       <div className={styles.songDiv}>
-        <iframe
-          src="https://open.spotify.com/embed/track/0X8DcetL926BYiPJYstJTc?utm_source=generator"
-          width="100%"
-          height="300px"
-          frameBorder="0"
-          allowTransparency="1"
-          allowfullscreen=""
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        ></iframe>
+      {songData
+            .filter((item) => item.title === name)
+            .map((filteredItem) => {
+              return (
+                <>
+        <SpotifyBig url={filteredItem.bigUrl} />
+        </>
+            )
+            })}
       </div>
       <div className={styles.buttonDiv}>
         <motion.button
@@ -51,14 +60,18 @@ const SongPage = () => {
           style={{ background: "white", border: "none" }}
           onClick={() => (modal2Open ? close2() : open2())}
         >
-          <GiMicrophone style={{ fontSize: "50px", background: "white", color: "black" }} />
+          <GiMicrophone
+            style={{ fontSize: "50px", background: "white", color: "black" }}
+          />
         </motion.button>
         <motion.button
           whileHover={{ scale: 1.1 }}
           style={{ background: "white", border: "none" }}
           onClick={() => (modal3Open ? close3() : open3())}
         >
-          <GiLoveSong style={{ fontSize: "50px", background: "white", color: "black" }} />
+          <GiLoveSong
+            style={{ fontSize: "50px", background: "white", color: "black" }}
+          />
         </motion.button>
       </div>
       <AnimatePresence
@@ -67,12 +80,19 @@ const SongPage = () => {
         onExitComplete={() => null}
       >
         {modalOpen && (
-          <Modal modalOpen={modalOpen} handleClose={close} lyrics={false} text={`On “Lucid Dreams,” Juice WRLD explores the mental anguish he feels after experiencing a break-up. Lucid dreaming refers to a state of consciousness where a person is aware they are dreaming. With enough experience, a dreamer can slowly begin to control the contents of their dreams. Juice uses the idea of controlling a lucid dream as an analogy for his mental state; to avoid the pain of seeing his ex-lover in his dreams, Juice seeks to replace them—for good.`}/>
-         
-          
+          <Modal
+            modalOpen={modalOpen}
+            handleClose={close}
+            lyrics={false}
+            text={`On “Lucid Dreams,” Juice WRLD explores the mental anguish he feels after experiencing a break-up. Lucid dreaming refers to a state of consciousness where a person is aware they are dreaming. With enough experience, a dreamer can slowly begin to control the contents of their dreams. Juice uses the idea of controlling a lucid dream as an analogy for his mental state; to avoid the pain of seeing his ex-lover in his dreams, Juice seeks to replace them—for good.`}
+          />
         )}
         {modal2Open && (
-          <Modal modal2Open={modal2Open} handleClose={close2} lyrics={true} text ={`[Intro]
+          <Modal
+            modal2Open={modal2Open}
+            handleClose={close2}
+            lyrics={true}
+            text={`[Intro]
 Enviyon on the mix
 No, no, no, no
 No-no, no, no, no
@@ -159,27 +179,13 @@ Who knew evil girls had the prettiest face?
 Easier said than done, I thought you were—
 —instead of my head
 You found another— better one
-I won't let you forget me`}/>
-          
+I won't let you forget me`}
+          />
         )}
         {modal3Open && (
           <Modal modal3Open={modal3Open} handleClose={close3}>
-            <iframe
-              src="https://open.spotify.com/embed/track/5TrvGxuqaYKsF7C0NfrLrY?utm_source=generator"
-              width="100%"
-              height="90px"
-              frameBorder="0"
-              allowfullscreen=""
-              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            ></iframe>
-            <iframe
-              src="https://open.spotify.com/embed/track/0X8DcetL926BYiPJYstJTc?utm_source=generator"
-              width="100%"
-              height="90px"
-              frameBorder="0"
-              allowfullscreen=""
-              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            ></iframe>
+            <SpotifyMini url="https://open.spotify.com/embed/track/5TrvGxuqaYKsF7C0NfrLrY?utm_source=generator" />
+            <SpotifyMini url="https://open.spotify.com/embed/track/0X8DcetL926BYiPJYstJTc?utm_source=generator" />
           </Modal>
         )}
       </AnimatePresence>
