@@ -41,6 +41,7 @@
   border-bottom-right-radius: 15px;
   box-shadow: 2px 5px 8px 2px #e8e8e8;
   transition-duration: 0.6s;
+  font-weight: 500;
 }
 
 .searchButton:hover {
