@@ -1,10 +1,13 @@
 .top {
   background: rgb(255, 255, 255);
+  background-color: whitesmoke;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 200px;
+  height: 50vh;
   text-align: center;
+  border-radius: 2em;
+  opacity: 75%;
 }
 
 .h1Home {
@@ -12,8 +15,8 @@
   font-weight: 250;
   font-size: 85px;
   line-height: 80px;
-  padding-top: 120px;
   margin-bottom: -10px;
+  padding-top: 0px;
 }
 
 .h2Home {
@@ -25,6 +28,7 @@
 .bottom {
   display: flex;
   justify-content: center;
+  background-color: whitesmoke;
 }
 
 .button {
