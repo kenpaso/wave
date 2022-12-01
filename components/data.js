@@ -3,8 +3,8 @@ export const songData = [
     title: "poetic-justice",
     bigUrl: "https://open.spotify.com/embed/track/4gEbNjczhVY4JLJGGAal7l?utm_source=generator",
     info: `"Poetic Justice" is a song by American rapper Kendrick Lamar, from his major-label debut studio album Good Kid, M.A.A.D City (2012). The song, produced by American record producer Scoop DeVille, features a verse from Canadian rapper Drake. The song was released as the album's fourth official single, due to its positive response.`,
-    lyrics: 
-    `[Intro: Kendrick Lamar]
+    lyrics:
+      `[Intro: Kendrick Lamar]
     
 Every second, every minute, man, I swear that she can get it
 Say, if you a bad bitch, put your hands up high
@@ -117,8 +117,8 @@ Where your mama stay, or where your daddy stay, okay?"
     title: "rich-flex",
     bigUrl: "https://open.spotify.com/embed/track/7uWIJXsugQIMaxcYXMxeZV?utm_source=generator",
     info: `"Rich Flex" is a song by Canadian rapper Drake and Atlanta-based rapper 21 Savage. It was released on November 4, 2022, as the opening track from their collaborative studio album Her Loss. The song interpolates "Savage" (2020) by Megan Thee Stallion, "24's" (2003) by T.I., and "Red Opps" (2016) by 21 Savage, as well as sampling "I Want You, Girl" (1973) by Sugar and "Nora's Transformation" (1973) by Charles Bernstein.`,
-    lyrics: 
-`[Part I]
+    lyrics:
+      `[Part I]
 
 [Intro: 21 Savage & Young Nudy]
 Go buy a zip of weed, hit the club
@@ -309,6 +309,99 @@ Easier said than done, I thought you were—
 You found another— better one
 I won't let you forget me`,
     samples: ["https://open.spotify.com/embed/track/6CKoWCWAqEVWVjpeoJXyNH?utm_source=generator"]
+  },
+  {
+    title: "the-way-life-goes",
+    bigUrl: "https://open.spotify.com/embed/track/2eAZfqOm4EnOF9VvN50Tyc?utm_source=generator",
+    info: `"The Way Life Goes" is a single by American rapper Lil Uzi Vert from their debut album Luv Is Rage 2 (2017). The song was released as the album's second single to urban contemporary radio on October 3, 2017. The track was produced by Don Cannon and Ike Beatz, and features vocals from the British indie pop group Oh Wonder sampled from their 2015 song "Landslide". The remix to the single was released on November 3 with a guest appearance from Trinidadian rapper Nicki Minaj. It peaked at number 24 on the US Billboard Hot 100.`,
+    lyrics: `[Refrain: Lil Uzi Vert]
+    That's true (That's true), that's right (That right, that right)
+    She's sipping Moët, and yeah, I swear it get her wetter
+    My Louboutins new, so my bottoms, they is redder (Yeah, it's red)
+    No I'm not a rat but I'm all about my cheddar ('Bout my bread)
+    Just talked to your homie she said we should be together (Yeah)
+    Gave me brain, was so insane that I made her my header (Woah)
+    If she ever call my phone you know I gotta dead her
+    But I like that girl too much, I wish I never met her
+    
+    [Bridge: Lil Uzi Vert]
+    Hello
+    I was listening to this song
+    It go like
+    [Chorus: Lil Uzi Vert]
+    I know it hurts sometimes but you'll get over it (Yeah)
+    You'll find another life to live (Yeah)
+    I swear that you'll get over it
+    I know you're sad and tired
+    You've got nothing left to give (Yeah)
+    You'll find another life to live (Yeah)
+    I know that you'll get over it (Yeah)
+    
+    [Verse 1: Lil Uzi Vert]
+    Wish I never ever ever told you things
+    I was only only trying to show you things (Yeah)
+    Iced out heart on your neck tried to froze your ring
+    I had to get me a new bitch to hold the pain
+    We was in Hawaii looking at the ring (Damn, yeah)
+    She smiling happy but I'm laughing 'cause her new man's a lame
+    (Broke boy, broke boy, broke boy, broke boy)
+    Damn, that just goes to show me money don't attract a thing (Real shit)
+    Stuck to the plan even though you used to go with my mans
+    
+    [Chorus: Lil Uzi Vert]
+    I know it hurts sometimes but you'll get over it (Yeah)
+    You'll find another life to live
+    I swear that you'll get over it
+    And I know you're sad and tired
+    You've got nothing left to give (Yeah)
+    You'll find another life to live (Ayy)
+    I know that you'll get over it
+    You might also like
+    For Real
+    Lil Uzi Vert
+    No Sleep Leak
+    Lil Uzi Vert
+    Bad and Boujee
+    Migos
+    [Verse 2: Lil Uzi Vert]
+    See, I tied up my Raf, you strapped up your Rick
+    Diamonds on your neck, ice all on my wrist
+    Complement my style
+    She don't want me, I'm running wild
+    You know I respect her on that level
+    She don't want me then I'ma let her (Bye)
+    Go over there with that broke fella (Go over)
+    Walk off my Saint Laurent, that leather, ooh (Yeah)
+    My new chick I swear that she better, ooh
+    Want me back, never (Ooh)
+    
+    [Refrain: Lil Uzi Vert]
+    That's true (That's true), that's right (That right, that right)
+    She's sipping Moët, and yeah I swear it get her wetter (Woah)
+    My Louboutins new, so my bottoms, they is redder (Yeah, it's red)
+    No, I'm not a rat but I'm all about my cheddar ('Bout my bread)
+    Just talked to your homie she said we should be together (Yeah)
+    Gave me brain, was so insane that I made her my header (Woah)
+    If she ever call my phone you know I gotta dead her
+    But I like that girl too much, I wish I never met her
+    
+    [Chorus: Oh Wonder & Lil Uzi Vert]
+    I know it hurts sometimes but (Woah), you'll get over it (But why?)
+    You'll find another life to live (You'll find)
+    I swear that you'll get over it (You'll get over it)
+    I know it hurts sometimes but you'll get over it (No, no)
+    You'll find another life to live (You will)
+    I know that you'll get over it (Oh)
+    [Outro: Lil Uzi Vert & Oh Wonder]
+    That's true, that's right
+    She's sipping Moët, and yeah, I swear it get her wetter
+    My Louboutins new, so my bottoms, they is redder
+    No I'm not a rat but I'm all about my cheddar
+    Just talked to your homie she said we should be together (You will get over it)
+    Gave me brain, was so insane that I made her my header
+    If she ever call my phone you know I gotta dead her
+    But I like that girl too much, I wish I never met her`,
+    samples: ["https://open.spotify.com/embed/track/3X3mfRMRaPJRiIMDMQtSkd?utm_source=generator", "https://open.spotify.com/embed/track/4kjrB4xpcXRiAjLRivGhN2?utm_source=generator"]
   },
 ];
 
