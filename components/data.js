@@ -473,5 +473,349 @@ It must be exhausting always rooting for the anti-hero
       "https://open.spotify.com/embed/track/6EIv9ZSLrEbXIhabxgejh4?utm_source=generator",
       "https://open.spotify.com/embed/track/0jn0HxgAWJDKf7TKn2bMm8?utm_source=generator"
     ]
-  }
+  },
+  {
+    title: "anaconda",
+    bigUrl: "https://open.spotify.com/embed/track/2oFVgnDaPLd482rdvNq7Rh?utm_source=generator",
+    info: `"Anaconda" is a song by Trinidadian rapper and singer Nicki Minaj, from her third studio album, The Pinkprint (2014). Released on August 4, 2014 by Young Money Entertainment, Cash Money Records, and Republic Records as the second single from the album,[2] the song was produced by Polow da Don, DJ Spydr, and Da Internz, and prominently samples "Baby Got Back" (1992) by Sir Mix-a-Lot.[3] The song peaked at number two on the US Billboard Hot 100, becoming Minaj's highest charting single at the time. The song also peaked within the top ten in Australia, Canada, Ireland, New Zealand and the United Kingdom, top forty in Austria, France and Portugal and top fifty in Czech Republic.`,
+    lyrics: `
+[Intro: Sir Mix-a-Lot]
+My anaconda don't, my anaconda don't
+My anaconda don't want none unless you got buns, hun
+
+[Verse 1: Nicki Minaj]
+Boy toy named Troy used to live in Detroit
+Bi-big dope dealer money, he was gettin' some coins
+Was in shootouts with the law, but he live in a palace
+Bo-bought me Alexander McQueen, he was keeping me stylish
+Now that's real, real, real
+Gun in my purse, bitch, I came dressed to kill
+Who wanna go first? I had them pushing daffodils
+I'm high as hell, I only took a half a pill
+I'm on some dumb shit
+[Pre-Chorus: Nicki Minaj]
+By the way, what he say?
+He can tell I ain't missing no meals
+Come through and fuck him in my automobile
+Let him eat it with his grills and he tellin' me to chill
+And he telling me it's real, that he love my sex appeal
+Say he don't like 'em boney, he want something he can grab
+So I pulled up in the Jag, and I hit him with the jab like
+Dun-d-d-dun-dun-d-d-dun-dun
+
+[Chorus: Sir Mix-a-Lot]
+My anaconda don't, my anaconda don't
+My anaconda don't want none unless you got buns, hun
+
+[Post-Chorus: Nicki Minaj]
+Oh my gosh, look at her butt
+Oh my gosh, look at her butt
+Oh-Oh-Oh-Oh my gosh, look at her butt
+Look at her butt, look at, look at, look at, look at her butt
+
+[Verse 2: Nicki Minaj]
+Thi-this dude named Michael used to ride motorcycles
+Di-dick bigger than a tower, I ain't talking about Eiffel's
+Real country-ass nigga, let me play with his rifle
+Pussy put his ass to sleep, now he calling me NyQuil
+Now that bang, bang, bang
+I let him hit it 'cause he slang cocaine
+He toss my salad like his name Romaine
+And when we done, I make him buy me Balmain
+I'm on some dumb shit
+You might also like
+Left and Right
+Charlie Puth & Jung Kook
+Running Up That Hill (A Deal with God)
+Kate Bush
+Carolina
+Taylor Swift
+[Pre-Chorus: Nicki Minaj]
+By the way, what he say?
+He can tell I ain't missing no meals
+Come through and fuck him in my automobile
+Let him eat it with his grills, and he telling me to chill
+And he telling me it's real, that he love my sex appeal
+He say he don't like 'em boney, he want something he can grab
+So I pulled up in the Jag, Mayweather with the jab like
+Dun-d-d-dun-dun-d-d-dun-dun...
+
+[Chorus: Sir Mix-a-Lot]
+My anaconda don't, my anaconda don't
+My anaconda don't want none unless you got buns, hun
+
+[Post-Chorus: Nicki Minaj]
+Oh my gosh, look at her butt
+Oh my gosh, look at her butt (I-ohhaha)
+Oh-Oh-Oh-Oh my gosh, look at her butt
+Look at her butt, look at, look at, look at, look at her butt
+
+[Breakdown: Sir Mix-a-Lot]
+Little in the middle but she got much back
+Little in the middle but she got much back
+Little in the middle but she got much back
+Oh my God, look at her butt
+[Chorus: Sir Mix-a-Lot]
+My anaconda don't, my anaconda don't
+My anaconda don't want none unless you got buns, hun
+D-D-D-Don't, my anaconda don't...
+D-D-Don't want none unless you got buns, hun
+
+[Post-Chorus: Nicki Minaj (Sir Mix-a-lot)]
+Oh my gosh, look at her butt
+(Little in the middle but she got much back)
+Oh my gosh, look at her butt
+(Little in the middle but she got much back)
+Oh-Oh-Oh-Oh my gosh, look at her butt
+(Little in the middle but she got much back)
+Look at her butt, look at, look at, look at, look at her butt
+
+[Outro: Nicki Minaj]
+Yeah, he love this fat ass, hahahahahahahaha!
+Yeah, this one is for my bitches with a fat ass in the fucking club
+I said, where my fat ass big bitches in the club?
+Fuck those skinny bitches, fuck those skinny bitches in the club
+I wanna see all the big fat-ass bitches in the muthafuckin' club
+Fuck you if you skinny, bitches, what? C'Yeah
+Hahahaha, rrrrrrr
+C'Yeah, I got a big fat ass, c'yeah, come on!`,
+    samples: ["https://open.spotify.com/embed/track/1SAkL1mYNJlaqnBQxVZrRl?utm_source=generator"]
+  },
+  {
+    title: "u-can't-touch-this",
+    bigUrl: "https://open.spotify.com/embed/track/1B75hgRqe7A4fwee3g3Wmu?utm_source=generator",
+    info: `"U Can't Touch This" is a song co-written, produced, and performed by American rapper MC Hammer. It was released as the third single from his third album, Please Hammer Don't Hurt 'Em (1990), and has been considered his signature song. Along with Hammer, Rick James shares songwriting credits with Alonzo Miller, as the song samples the prominent opening riff of James' 1981 single "Super Freak". The song has been used and referred to in many television shows, films, commercials, and other forms of media. It has also received multiple awards and recognition.`,
+    lyrics:`
+[Chorus]
+You can't touch this
+You can't touch this
+You can't touch this
+You can't touch this
+
+[Verse 1]
+My, my, my my music hits me so hard
+Makes me say, "Oh my Lord"
+Thank you for blessin' me
+With a mind to rhyme and two hype feet
+It feels good, when you know you're down
+A super dope homeboy from the Oaktown
+And I'm known as such
+And this is a beat, uh, you can't touch
+[Chorus]
+I told you homeboy (You can't touch this)
+Yeah, that's how we livin' and ya know (You can't touch this)
+Look in my eyes, man (You can't touch this)
+Yo, let me bust the funky lyrics (You can't touch this)
+
+[Verse 2]
+Fresh new kicks, and pants
+You gotta like that, now you know you wanna dance
+So move outta yo seat
+And get a fly girl and catch this beat
+While it's rollin', hold on!
+Pump a little bit and let 'em know it's goin' on
+Like that, like that
+Cold on a mission, so fall on back
+Let 'em know that you're too much
+And this is a beat, uh, they can't touch
+
+[Chorus]
+Yo, I told you (Can't touch this)
+Why you standin' there, man? (You can't touch this)
+Yo, sound the bell, school's in, sucka (You can't touch this)
+
+[Verse 3]
+Give me a song, or rhythm
+Makin' 'em sweat, that's what I'm givin' 'em
+Now, they know
+You talkin' 'bout the Hammer, you're talkin' 'bout a show
+That's hyped, and tight
+Singers are sweatin', so pass them a wipe
+Or a tape, to learn
+What's it gonna take in the 90's to burn
+The charts? Legit
+Either work hard or you might as well quit
+You might also like
+Have You Seen Her
+MC Hammer
+Here Comes the Hammer
+MC Hammer
+2 Legit 2 Quit
+MC Hammer
+[Chorus]
+That's word because you know (You can't touch this)
+(You can't touch this)
+Break it down!
+
+[Breakdown]
+Stop, Hammer time!
+
+[Verse 4]
+Go with the flow, it is said
+That if you can't groove to this then you probably are dead
+So wave yo hands in the air
+Bust a few moves, run your fingers through your hair
+This is it, for a winner
+Dance to this and you're gonna get thinner
+Move, slide your rump
+Just for a minute let's all do the bump
+(Bump, bump, bump)
+
+[Chorus]
+Yeah (You can't touch this)
+Look, man (You can't touch this)
+You better get hype, boy, because you know you can't (You can't touch this)
+Ring the bell, school's back in
+Break it down!
+[Breakdown]
+Stop, Hammer time!
+
+[Chorus]
+You can't touch this
+You can't touch this
+You can't touch this
+You can't touch this
+Break it down!
+
+[Breakdown]
+Stop, Hammer time!
+
+[Verse 5]
+Every time you see me, the Hammer's just so hyped
+I'm dope on the floor and I'm magic on the mic
+Now why would I ever stop doin' this?
+With others makin' records that just don't hit
+I've toured around the world, from London to the Bay
+It's "Hammer!" "Go Hammer!" "MC Hammer!" Yo Hammer!"
+And the rest can go and play
+You can't touch this
+
+[Chorus]
+You can't touch this
+You can't touch this
+Yeah (You can't touch this)
+I told you (Can't touch this)
+Too hot (Can't touch this)
+Yo, we outta here (Can't touch this)`,
+    samples: ["https://open.spotify.com/embed/track/2dCmGcEOQrMQhMMS8Vj7Ca?utm_source=generator"]
+  },
+  {
+    title: "ice-ice-baby",
+    bigUrl: "https://open.spotify.com/embed/track/3XVozq1aeqsJwpXrEZrDJ9?utm_source=generator",
+    info: `"Ice Ice Baby" is a hip hop song by American rapper Vanilla Ice, K. Kennedy and DJ Earthquake.[2][3] It was based on the bassline of the song "Under Pressure" by British rock band Queen and British singer David Bowie, who did not receive songwriting credit or royalties until after it had become a hit. Released on Vanilla Ice’s debut album, To the Extreme (1990), it is his best-known song. It has appeared in remixed form on Platinum Underground and Vanilla Ice Is Back! A live version appears on the album Extremely Live, while a nu metal version appears on the album Hard to Swallow, under the title "Too Cold".`,
+    lyrics: `
+[Intro]
+Yo VIP, let's kick it
+
+[Chorus]
+Ice, ice, baby
+Ice, ice, baby
+
+[Verse 1]
+Alright stop, collaborate and listen
+Ice is back with the brand new invention
+Something grabs a hold of me tightly
+Flow like a harpoon daily and nightly
+"Will it ever stop?" Yo, I don't know
+Turn off the lights, huh, and I'll glow
+To the extreme, I rock a mic like a vandal
+Light up a stage and wax a chump like a candle
+Dance, rush the speaker that booms
+I'm killing your brain like a poisonous mushroom
+Deadly when I play a dope melody
+Anything less than the best is a felony
+Love it or leave it, you better gangway
+You better hit the bullseye, the kid don't play
+And if there was a problem, yo, I'll solve it
+Check out the hook while my DJ revolves it
+[Chorus]
+Ice, ice, baby
+Vanilla Ice, ice, baby
+Vanilla Ice, ice, baby
+Vanilla Ice, ice, baby
+
+[Verse 2]
+Now that the party is jumpin'
+With the bass kicked in and the Vegas are pumpin'
+Quick to the point, to the point, no fakin'
+Cookin' MCs like a pound of bacon
+Burnin' 'em if you're not quick and nimble
+I go crazy when I hear a cymbal
+And a hi-hat with a souped up tempo
+I'm on a roll, it's time to go solo
+Rollin' in my 5.0
+With the ragtop down so my hair can blow
+The girlies on standby, wavin' just to say hi
+“Did you stop?” No, I just drove by
+Kept on, pursuin' to the next stop
+I busted a left and I'm headin' to the next stop
+The block was dead, yo, so I continued to
+A1A Beachfront Avenue
+Girls were hot wearing less than bikinis
+Rockman lovers driving Lamborghinis
+Jealous, 'cause I'm out getting mine
+Shay with a gauge and Vanilla with a 9
+Ready for the chumps on the wall
+The chumps acting ill because they're full of eight ball
+Gunshots raged out like a bell
+I grabbed my 9, all I heard were shells
+Falling on the concrete real fast
+Jumped in my car, slammed on the gas
+Bumper to bumper, the avenue's packed
+I'm trying to get away before the jackers jack
+Police on the scene, you know what I mean?
+They passed me up, confronted all the dope fiends
+If there was a problem, yo, I'll solve it
+Check out the hook while my DJ revolves it
+You might also like
+Play That Funky Music
+Vanilla Ice
+Ninja Rap
+Vanilla Ice
+Rich Flex
+Drake & 21 Savage
+[Chorus]
+Ice, ice, baby
+Vanilla Ice, ice, baby
+Vanilla Ice, ice, baby
+Ice, ice, baby
+
+[Verse 3]
+Take heed 'cause I'm a lyrical poet
+Miami's on the scene just in case you didn't know it
+My town that created all the bass sound
+Enough to shake and kick holes in the ground
+'Cause my style's like a chemical spill
+Feasible rhymes that you can vision and feel
+Conducted and formed, this is a hell of a concept
+We make it hype and you want to step
+With this. Shay plays on the fade
+Slice like a ninja, cut like a razor blade
+So fast, other DJs say, “Damn!”
+If rhyme was a drug I'd sell it by the gram
+Keep my composure when it's time to get loose
+Magnetized by the mic while I kick my juice
+If there was a problem yo I'll solve it
+Check out the hook while my DJ revolves it
+
+[Chorus]
+Ice ice, baby
+Vanilla Ice, ice, baby
+Vanilla Ice, ice, baby
+Ice ice, baby
+Vanilla Ice
+[Outro]
+Yo man, let's get out of here
+Word to your mother
+Ice, ice, baby (Too cold)
+Ice, ice, baby (Too cold)
+Ice, ice, baby (Too cold)
+Ice, ice, baby (Too cold, too cold)
+Ice, ice, baby (Too cold, too cold)
+Ice, ice, baby (Too cold, too cold)
+Ice`,
+    samples: ["https://open.spotify.com/embed/track/1mSClObliRtgPVT399COQH?utm_source=generator"]
+  },
 ];
+
+<iframe style="border-radius:12px" src="" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
