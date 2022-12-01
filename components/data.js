@@ -423,49 +423,50 @@ But I like that girl too much, I wish I never met her`,
     bigUrl:
       "https://open.spotify.com/embed/track/0V3wPSX9ygBnCm8psDIegu?utm_source=generator",
     info: `"Anti-hero is a part of the the tenth studio album  "Midnight" by American singer-songwriter Taylor Swift, released on October 21, 2022, via Republic Records.`,
-    lyrics: `[Verse 1]
-    I have this thing where I get older, but just never wiser
-    Midnights become my afternoons
-    When my depression works the graveyard shift, all of the people
-    I've ghosted stand there in the room
-    
-    [Pre-Chorus]
-    I should not be left to my own devices
-    They come with prices and vices
-    I end up in crisis
-    (Tale as old as time)
-    I wake up screaming from dreaming
-    One day, I'll watch as you're leaving
-    'Cause you got tired of my scheming
-    (For the last time)
-    [Chorus]
-    It's me, hi
-    I'm the problem, it's me
-    At teatime, everybody agrees
-    I'll stare directly at the sun, but never in the mirror
-    It must be exhausting always rooting for the anti-hero
+    lyrics: `
+[Verse 1]
+I have this thing where I get older, but just never wiser
+Midnights become my afternoons
+When my depression works the graveyard shift, all of the people
+I've ghosted stand there in the room
 
-    [Verse 2]
-    Sometimes, I feel like everybody is a sexy baby
-    And I'm a monster on the hill
-    Too big to hang out, slowly lurching toward your favorite city
-    Pierced through the heart, but never killed
+[Pre-Chorus]
+I should not be left to my own devices
+They come with prices and vices
+I end up in crisis
+(Tale as old as time)
+I wake up screaming from dreaming
+One day, I'll watch as you're leaving
+'Cause you got tired of my scheming
+(For the last time)
+[Chorus]
+It's me, hi
+I'm the problem, it's me
+At teatime, everybody agrees
+I'll stare directly at the sun, but never in the mirror
+It must be exhausting always rooting for the anti-hero
 
-    [Pre-Chorus]
-    Did you hear my covert narcissism I disguise as altruism
-    Like some kind of congressman?
-    (A tale as old as time)
-    I wake up screaming from dreaming
-    One day, I'll watch as you're leaving
-    And life will lose all its meaning
-    (For the last time)
+[Verse 2]
+Sometimes, I feel like everybody is a sexy baby
+And I'm a monster on the hill
+Too big to hang out, slowly lurching toward your favorite city
+Pierced through the heart, but never killed
 
-    [Chorus]
-    It's me, hi
-    I'm the problem, it's me (I'm the problem, it's me)
-    At teatime, everybody agrees
-    I'll stare directly at the sun, but never in the mirror
-    It must be exhausting always rooting for the anti-hero
+[Pre-Chorus]
+Did you hear my covert narcissism I disguise as altruism
+Like some kind of congressman?
+(A tale as old as time)
+I wake up screaming from dreaming
+One day, I'll watch as you're leaving
+And life will lose all its meaning
+(For the last time)
+
+[Chorus]
+It's me, hi
+I'm the problem, it's me (I'm the problem, it's me)
+At teatime, everybody agrees
+I'll stare directly at the sun, but never in the mirror
+It must be exhausting always rooting for the anti-hero
     
     `,
     samples: [
