@@ -1,10 +1,10 @@
 export const songData = [
   {
     title: "poetic-justice",
-    bigUrl: "https://open.spotify.com/embed/track/4gEbNjczhVY4JLJGGAal7l?utm_source=generator",
+    bigUrl:
+      "https://open.spotify.com/embed/track/4gEbNjczhVY4JLJGGAal7l?utm_source=generator",
     info: `"Poetic Justice" is a song by American rapper Kendrick Lamar, from his major-label debut studio album Good Kid, M.A.A.D City (2012). The song, produced by American record producer Scoop DeVille, features a verse from Canadian rapper Drake. The song was released as the album's fourth official single, due to its positive response.`,
-    lyrics:
-      `[Intro: Kendrick Lamar]
+    lyrics: `[Intro: Kendrick Lamar]
     
 Every second, every minute, man, I swear that she can get it
 Say, if you a bad bitch, put your hands up high
@@ -111,14 +111,16 @@ Or, or, or where your grandma stay
 Where your mama stay, or where your daddy stay, okay?"
 "Fuck all this talkin'."
 "Matter of fact, get out the van, homie! Get out the car 'fore I snatch you out that motherfucker, homie!"`,
-    samples: ["https://open.spotify.com/embed/track/2yOm4lN7aTygtXanJFNFWU?utm_source=generator"]
+    samples: [
+      "https://open.spotify.com/embed/track/2yOm4lN7aTygtXanJFNFWU?utm_source=generator"
+    ]
   },
   {
     title: "rich-flex",
-    bigUrl: "https://open.spotify.com/embed/track/7uWIJXsugQIMaxcYXMxeZV?utm_source=generator",
+    bigUrl:
+      "https://open.spotify.com/embed/track/7uWIJXsugQIMaxcYXMxeZV?utm_source=generator",
     info: `"Rich Flex" is a song by Canadian rapper Drake and Atlanta-based rapper 21 Savage. It was released on November 4, 2022, as the opening track from their collaborative studio album Her Loss. The song interpolates "Savage" (2020) by Megan Thee Stallion, "24's" (2003) by T.I., and "Red Opps" (2016) by 21 Savage, as well as sampling "I Want You, Girl" (1973) by Sugar and "Nora's Transformation" (1973) by Charles Bernstein.`,
-    lyrics:
-      `[Part I]
+    lyrics: `[Part I]
 
 [Intro: 21 Savage & Young Nudy]
 Go buy a zip of weed, hit the club
@@ -213,11 +215,16 @@ Ayy, Slaughter Gang shit, ayy, murder gang shit
 On God
 Boy, look, you the motherfuckin' man, boy, you, ooh
 You is the man, you hear me?`,
-    samples: ["https://open.spotify.com/embed/track/55CHeLEfn5iJ0IIkgaa4si?utm_source=generator", "https://open.spotify.com/embed/track/3ssz1vdHcaHn6fVtzjP1YD?utm_source=generator", "https://open.spotify.com/embed/track/3cqZH3cqvfbV8wVbvHyPbG?utm_source=generator"]
+    samples: [
+      "https://open.spotify.com/embed/track/55CHeLEfn5iJ0IIkgaa4si?utm_source=generator",
+      "https://open.spotify.com/embed/track/3ssz1vdHcaHn6fVtzjP1YD?utm_source=generator",
+      "https://open.spotify.com/embed/track/3cqZH3cqvfbV8wVbvHyPbG?utm_source=generator"
+    ]
   },
   {
     title: "lucid-dreams",
-    bigUrl: "https://open.spotify.com/embed/track/1Bmn5aStO2S33dz1Di0g3K?utm_source=generator",
+    bigUrl:
+      "https://open.spotify.com/embed/track/1Bmn5aStO2S33dz1Di0g3K?utm_source=generator",
     info: `"Lucid Dreams" (alternatively "Lucid Dreams (Forget Me)")[2] is a song by American rapper and singer Juice Wrld. It was officially released by Grade A Productions and Interscope Records on May 4, 2018, after previously being released on SoundCloud in June 2017. The song was produced by Nick Mira and debuted at number 74 on the Billboard Hot 100,[3] peaking at number 2 on the chart.[4] The song has over 2 billion streams on Spotify, being one of the most streamed songs on the platform. A remix featuring fellow American rapper and singer Lil Uzi Vert was recorded in 2018 but remained unreleased due to sample clearance issues. The remix leaked online in May 2021 after fans pooled together $12,000 to purchase the song from leakers.[5] On May 28, 2021, the remix was officially released as a part of the re-release of Goodbye & Good Riddance that commemorates the album's third anniversary. In February 2022 the song was certified Diamond by RIAA for selling over 10 million units in the U.S.[6] The song has since come to be regarded as Juice Wrld's signature song.`,
     lyrics: `
 [Intro]
@@ -308,11 +315,14 @@ Easier said than done, I thought you were—
 —instead of my head
 You found another— better one
 I won't let you forget me`,
-    samples: ["https://open.spotify.com/embed/track/6CKoWCWAqEVWVjpeoJXyNH?utm_source=generator"]
+    samples: [
+      "https://open.spotify.com/embed/track/6CKoWCWAqEVWVjpeoJXyNH?utm_source=generator"
+    ]
   },
   {
     title: "the-way-life-goes",
-    bigUrl: "https://open.spotify.com/embed/track/2eAZfqOm4EnOF9VvN50Tyc?utm_source=generator",
+    bigUrl:
+      "https://open.spotify.com/embed/track/2eAZfqOm4EnOF9VvN50Tyc?utm_source=generator",
     info: `"The Way Life Goes" is a single by American rapper Lil Uzi Vert from their debut album Luv Is Rage 2 (2017). The song was released as the album's second single to urban contemporary radio on October 3, 2017. The track was produced by Don Cannon and Ike Beatz, and features vocals from the British indie pop group Oh Wonder sampled from their 2015 song "Landslide". The remix to the single was released on November 3 with a guest appearance from Trinidadian rapper Nicki Minaj. It peaked at number 24 on the US Billboard Hot 100.`,
     lyrics: `
 [Refrain: Lil Uzi Vert]
@@ -402,8 +412,65 @@ Just talked to your homie she said we should be together (You will get over it)
 Gave me brain, was so insane that I made her my header
 If she ever call my phone you know I gotta dead her
 But I like that girl too much, I wish I never met her`,
-    samples: ["https://open.spotify.com/embed/track/3X3mfRMRaPJRiIMDMQtSkd?utm_source=generator", "https://open.spotify.com/embed/track/4kjrB4xpcXRiAjLRivGhN2?utm_source=generator"]
+    samples: [
+      "https://open.spotify.com/embed/track/3X3mfRMRaPJRiIMDMQtSkd?utm_source=generator",
+      "https://open.spotify.com/embed/track/4kjrB4xpcXRiAjLRivGhN2?utm_source=generator"
+    ]
   },
+
+  {
+    title: "anti-hero",
+    bigUrl:
+      "https://open.spotify.com/embed/track/0V3wPSX9ygBnCm8psDIegu?utm_source=generator",
+    info: `"Anti-hero is a part of the the tenth studio album  "Midnight" by American singer-songwriter Taylor Swift, released on October 21, 2022, via Republic Records.`,
+    lyrics: `[Verse 1]
+    I have this thing where I get older, but just never wiser
+    Midnights become my afternoons
+    When my depression works the graveyard shift, all of the people
+    I've ghosted stand there in the room
+    
+    [Pre-Chorus]
+    I should not be left to my own devices
+    They come with prices and vices
+    I end up in crisis
+    (Tale as old as time)
+    I wake up screaming from dreaming
+    One day, I'll watch as you're leaving
+    'Cause you got tired of my scheming
+    (For the last time)
+    [Chorus]
+    It's me, hi
+    I'm the problem, it's me
+    At teatime, everybody agrees
+    I'll stare directly at the sun, but never in the mirror
+    It must be exhausting always rooting for the anti-hero
+
+    [Verse 2]
+    Sometimes, I feel like everybody is a sexy baby
+    And I'm a monster on the hill
+    Too big to hang out, slowly lurching toward your favorite city
+    Pierced through the heart, but never killed
+
+    [Pre-Chorus]
+    Did you hear my covert narcissism I disguise as altruism
+    Like some kind of congressman?
+    (A tale as old as time)
+    I wake up screaming from dreaming
+    One day, I'll watch as you're leaving
+    And life will lose all its meaning
+    (For the last time)
+
+    [Chorus]
+    It's me, hi
+    I'm the problem, it's me (I'm the problem, it's me)
+    At teatime, everybody agrees
+    I'll stare directly at the sun, but never in the mirror
+    It must be exhausting always rooting for the anti-hero
+    
+    `,
+    samples: [
+      "https://open.spotify.com/embed/track/6EIv9ZSLrEbXIhabxgejh4?utm_source=generator",
+      "https://open.spotify.com/embed/track/0jn0HxgAWJDKf7TKn2bMm8?utm_source=generator"
+    ]
+  }
 ];
-
-
