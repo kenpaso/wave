@@ -57,7 +57,7 @@ const SongPage = () => {
               <div className={styles.buttonDiv}>
                 <motion.button
                   whileHover={{ scale: 1.1 }}
-                  style={{ background: "white", border: "none" }}
+                  style={{ background: "white", border: "nonez" }}
                   onClick={() => (modalOpen ? close() : open())}
                 >
                   <BsInfoLg

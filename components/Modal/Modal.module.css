@@ -1,7 +1,7 @@
 .modal{
 width: clamp(50%, 700px, 90%);
 height: min(90%, 700px);
-background: #f7f7f7e5;
+background: linear-gradient(#F5F7FA, #B8C6DB);
 margin:auto;
 padding: 0 2 rem;
 border-radius: 12px;
@@ -14,7 +14,7 @@ align-items: center;
 .content{
   width: 100%;
   height: 90%;
-  background-color: #f7f7f7e5;
+  background-color: whitesmoke;
   overflow: scroll;
   /* overflow-x: hidden; */
 }
@@ -22,6 +22,13 @@ align-items: center;
 .text{
   /* white-space: pre; */
   white-space: pre-wrap;
+  margin: auto;
+  width: 75%;
+  padding: 5px;
+  text-align: center;
+  border-radius: 2em;
+  
+  
 
 }
 
@@ -29,4 +36,6 @@ align-items: center;
   height: 10%;
   display: flex;
   align-items: center;
+  border-radius: 2em;
+  border: 5px;
 }

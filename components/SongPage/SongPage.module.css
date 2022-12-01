@@ -18,22 +18,26 @@
 }
 
 .songDiv{
-  background-color: white;
+  background-color: whitesmoke;
   height: 85vh;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 25px;
   border: none;
+  border-top-left-radius: 2em;
+  border-top-right-radius: 2em;
 }
 
 .buttonDiv{
-  background-color: white;
+  background: linear-gradient(#F5F7FA, #B8C6DB);
   height: 15vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding-left: 15px;
   padding-right: 15px;
+  border-bottom-left-radius: 2em;
+  border-bottom-right-radius: 2em;
 }
 
