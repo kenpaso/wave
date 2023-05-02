@@ -52,6 +52,7 @@ while True:
                 if song is None:
                     print(F"No genius data for {song_title}")
                 else:
+                    print(song)
                     lyrics = song.lyrics
                     print(lyrics)
                
