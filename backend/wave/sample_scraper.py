@@ -44,6 +44,50 @@ def scrape(artist, song_title):
         print(F"Problem with the url. Received status code: {response.status_code}")
 
 
+def scrapeSamples(artist, song_title):
+
+    url = F"{BASE_URL}{artist}/{song_title}/samples"
+    headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0',
+    'Referer': url,
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Connection': 'keep-alive',
+    }   
+
+    print(url)
+    response = requests.get(url, headers=headers)
+    if response.ok:
+        html_content = response.content
+        soup = BeautifulSoup(html_content, 'html.parser', from_encoding="utf-8")
+        # print(soup.prettify())
+        return findSamples(soup)
+    else:
+        print(response.reason)
+        print(F"Problem with the url. Received status code: {response.status_code}")
+
+def scrapeSampled(artist, song_title):
+
+    url = F"{BASE_URL}{artist}/{song_title}/sampled"
+    headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0',
+    'Referer': url,
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Connection': 'keep-alive',
+    }   
+
+    print(url)
+    response = requests.get(url, headers=headers)
+    if response.ok:
+        html_content = response.content
+        soup = BeautifulSoup(html_content, 'html.parser', from_encoding="utf-8")
+        # print(soup.prettify())
+        return findSamples(soup)
+    else:
+        print(response.reason)
+        print(F"Problem with the url. Received status code: {response.status_code}")
+
 def findSamples(soup):
     samples = []
     main = soup.find('main', {'id': 'container'})
@@ -94,11 +138,11 @@ def findSamples(soup):
     
 
 
-for x in scrape("drake", "rich-flex"):
+for x in scrapeSamples("drake", "rich-flex"):
     x.description()
 print()
 print()
-for x in scrape("abba", "dancing-queen"):
+for x in scrapeSampled("abba", "dancing-queen"):
     x.description()
 
 
