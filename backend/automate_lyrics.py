@@ -39,6 +39,7 @@ while True:
 
         if current_track_id != prev_track_id:
             print("SONG CHANGED")
+            print(current_track_id)
             prev_track_id = current_track_id
             status = current_track['currently_playing_type']
 

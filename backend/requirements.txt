@@ -1,0 +1,5 @@
+spotipy
+lyricsgenius
+python-dotenv
+bs4
+requests
