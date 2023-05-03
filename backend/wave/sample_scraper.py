@@ -147,11 +147,10 @@ print(F"Generic sample results : {len(results[0])}")
 print(F"Specific sample results : {len(results[1])}")
 print(F"Sampled results : {len(results[2])}")
 
-# for x in scrapeSamples("drake", "rich-flex"):
-#     x.description()
-# print()
-# print()
-# for x in scrapeSampled("abba", "dancing-queen"):
-#     x.description()
+print()
 
 
+results = [scrape("abba", "dancing-queen"), scrapeSamples("abba", "dancing-queen"), scrapeSampled("abba", "dancing-queen")]
+print(F"Generic sample results : {len(results[0])}")
+print(F"Specific sample results : {len(results[1])}")
+print(F"Sampled results : {len(results[2])}")
