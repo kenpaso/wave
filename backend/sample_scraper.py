@@ -46,7 +46,7 @@ def scrape(artist, song_title):
         print(F"Problem with the url. Received status code: {response.status_code}")
         return []
 
-
+# checking for specific samples /samples
 def scrapeSamples(artist, song_title):
 
     url = F"{BASE_URL}{artist}/{song_title}/samples"
@@ -70,6 +70,7 @@ def scrapeSamples(artist, song_title):
         print(F"Problem with the url. Received status code: {response.status_code}")
         return []
 
+# checking /sampled to see if the song has 
 def scrapeSampled(artist, song_title):
 
     url = F"{BASE_URL}{artist}/{song_title}/sampled"
