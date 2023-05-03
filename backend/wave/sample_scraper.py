@@ -10,6 +10,8 @@ class Sample:
         self.title = title
         self.artist = artist
         self.year = year
+        
+
     def description(self):
         print(F"Title: {self.title}\nArtist: {self.artist}\nYear: {self.year}")
 
@@ -42,6 +44,7 @@ def scrape(artist, song_title):
     else:
         print(response.reason)
         print(F"Problem with the url. Received status code: {response.status_code}")
+        return []
 
 
 def scrapeSamples(artist, song_title):
@@ -65,6 +68,7 @@ def scrapeSamples(artist, song_title):
     else:
         print(response.reason)
         print(F"Problem with the url. Received status code: {response.status_code}")
+        return []
 
 def scrapeSampled(artist, song_title):
 
@@ -87,6 +91,7 @@ def scrapeSampled(artist, song_title):
     else:
         print(response.reason)
         print(F"Problem with the url. Received status code: {response.status_code}")
+        return []
 
 def findSamples(soup):
     samples = []
@@ -137,12 +142,16 @@ def findSamples(soup):
  
     
 
+results = [scrape("drake", "rich-flex"), scrapeSamples("drake", "rich-flex"), scrapeSampled("drake", "rich-flex")]
+print(F"Generic sample results : {len(results[0])}")
+print(F"Specific sample results : {len(results[1])}")
+print(F"Sampled results : {len(results[2])}")
 
-for x in scrapeSamples("drake", "rich-flex"):
-    x.description()
-print()
-print()
-for x in scrapeSampled("abba", "dancing-queen"):
-    x.description()
+# for x in scrapeSamples("drake", "rich-flex"):
+#     x.description()
+# print()
+# print()
+# for x in scrapeSampled("abba", "dancing-queen"):
+#     x.description()
 
 
